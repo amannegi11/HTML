@@ -1,0 +1,71 @@
+Sure! Here is a template you can use for creating a resume for a data science fresher:
+
+[Your Name]
+Contact Information
+Phone: [Your phone number]
+Email: [Your email address]
+LinkedIn: [Your LinkedIn profile URL]
+Summary
+A highly motivated data science fresher with strong analytical and problem-solving skills. Proficient in statistical analysis, machine learning, and data visualization. Looking for a data science role where I can apply my skills and knowledge to solve real-world problems.
+
+Skills
+Statistical analysis: [list relevant skills, such as t-tests, ANOVA, regression, etc.]
+Machine learning: [list relevant skills, such as decision trees, random forests, SVM, etc.]
+Data visualization: [list relevant skills, such as Matplotlib, Seaborn, Plotly, etc.]
+Programming: [list relevant skills, such as Python, R, SQL, etc.]
+Education
+[Degree] in [Field] from [University] (20XX)
+Coursework included: [list relevant courses]
+Projects
+[Project 1 Title] (20XX)
+
+Description: [Brief description of the project]
+Skills applied: [List the skills you used for this project]
+Results: [Briefly mention the results you achieved]
+[Project 2 Title] (20XX)
+
+Description: [Brief description of the project]
+Skills applied: [List the skills you used for this project]
+Results: [Briefly mention the results you achieved]
+Experience
+[Position] at [Company] (20XX-present)
+Description: [Brief description of your role and responsibilities]
+Accomplishments: [List any notable achievements you made in this role]
+Additional Information
+[List any other relevant information, such as certifications, languages, etc.]
+
+
+
+[Your Name]
+Contact Information
+Phone: [Your phone number]
+Email: [Your email address]
+LinkedIn: [Your LinkedIn profile URL]
+Summary
+A highly motivated individual with strong problem-solving skills and a passion for creating intuitive and visually appealing websites. Looking to transition into a web development role using the MERN stack, where I can apply my skills and knowledge to create engaging and user-friendly websites.
+
+Skills
+Strong communication and teamwork skills
+Detail-oriented and organized
+Able to learn new technologies quickly
+Education
+[Degree] in [Field] from [University] (20XX)
+Coursework included: [list relevant courses]
+Projects
+[Project 1 Title] (20XX)
+
+Description: [Brief description of the project]
+Skills applied: [List the skills you used for this project]
+Results: [Briefly mention the results you achieved]
+[Project 2 Title] (20XX)
+
+Description: [Brief description of the project]
+Skills applied: [List the skills you used for this project]
+Results: [Briefly mention the results you achieved]
+Experience
+[Position] at [Company] (20XX-present)
+Description: [Brief description of your role and responsibilities]
+Accomplishments: [List any notable achievements you made in this role]
+Additional Information
+Currently enrolled in a web development course focusing on the MERN stack
+[List any other relevant information, such as certifications, languages, etc.]
